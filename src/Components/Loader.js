@@ -11,7 +11,7 @@ class Loader extends Component {
         height: "100px",   // only takes 100px height
         background: "#ffffff" // light background for section
       }}>
-        <div className="loader"></div>
+        <div className="loader my-3"></div>
       </div>
     );
   }
